@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    width :100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-image: url("/public/images/background2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat ;
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+}
